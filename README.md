@@ -1,2 +1,2 @@
 # Drum-Kit
-Made with Javascript.
+Made with JavaScript.
